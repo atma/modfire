@@ -1,0 +1,4 @@
+modFire - implementation of FirePHP for MODx
+
+Licensed under GPLv3 license http://www.gnu.org/licenses/gpl.html
+Main class licensed under New BSD License http://www.opensource.org/licenses/bsd-license.php
